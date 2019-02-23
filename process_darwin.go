@@ -138,5 +138,5 @@ type kinfoProc struct {
 }
 
 func supported() bool {
-	return false
+	return true
 }
